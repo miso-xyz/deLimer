@@ -1,5 +1,5 @@
 # Introduction
-Tools to unpack NYAN-x-CAT's Lime Crypter, both tools are made by me & are CLI-based
+Tools to unpack NYAN-x-CAT's Lime Crypter, both tools are made by me - CLI-based (deLimer & UnStub)
 
 # deLimer
 This tool allows you to extract & decrypt the resource in the protected executable, however, the extracted resource isn't the original application, but is instead Stub.dll, which is basically the protector, you will need to use UnStub.exe to decrypt the resource contained in Stub.dll, which will give you the original, unprotected application
