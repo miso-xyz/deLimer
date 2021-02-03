@@ -21,5 +21,5 @@ Usage: ```UnStub.exe <stub.dll_encrypted_resource> <protected_executable>```
 - You technically don't need deLimer if you manually extract the encrypted resource out of ```<protected_executable>```, you'll only need UnStub.exe
 
 # Credits:
-- 0xd4d (now wtfsck) - dnlib
-- NYAN-x-CAT - Packer Maker
+- NYAN-x-CAT - [Lime Crypter](https://github.com/NYAN-x-CAT/Lime-Crypter)
+- 0xd4d (now wtfsck) - [dnlib](https://github.com/0xd4d/dnlib)
